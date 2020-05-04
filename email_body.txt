@@ -1,0 +1,7 @@
+Hello ${PERSON_NAME}
+
+This is your purchase confirmation email.
+Please find the receipt in the attachment
+
+Thank you
+Auto receipting program
